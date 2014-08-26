@@ -1,4 +1,10 @@
 name : rust-test
-version: 0.0.5
+version: 0.0.6
 display-name: Rust testing
+description: |
+  Wercker step for Rust unit-testing
 type: build
+keywords: 
+  - rust
+  - rust-test
+  - rustlang
